@@ -1,0 +1,59 @@
+/* @media screen and (min-height: 1200px) {
+    ul.nav2__Danhmuc
+    {
+        display: none;
+    }
+
+} */
+
+@media screen and (min-width: 1900px) {
+    .muangay5 , .muangaysl4
+    {
+        display: none;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .textsl2
+    {
+        display: none;
+    }
+}
+
+
+@media screen and (max-width: 1024px ) {
+     #btnTimKiem
+     {
+         width: 100%;
+         border-radius:  0px  0px 5px 5px;
+     }
+}
+
+@media screen and (max-width: 600px) {
+   
+
+    #js_search
+    {
+        width: 100%;
+    }
+
+    select
+    {
+        width: 100%;
+        border-radius:  5px  5px 0px 0px;
+    }
+
+
+}
+
+@media screen and (max-width: 700px) {
+    .baner2
+{
+    margin-bottom: 3px;
+    flex-wrap: wrap;
+}
+    .chuthich, #new {
+        display: none;
+    }
+}
+

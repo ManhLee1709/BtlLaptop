@@ -1,0 +1,112 @@
+/*input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+}*/
+.headerDk
+{
+    background-color: black;
+    width: 100%;
+    height: 140px;
+    text-align: center;
+}
+
+.container-form-dangki
+{
+    text-align: center;
+    /* display: flex; */
+}
+
+.group-form-dangki
+{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    /* padding: 8px; */
+}
+
+input[type=text]
+{
+    width: 150px;
+    margin: 8px;
+}
+
+input[type=email]
+{
+    margin: 8px;
+    width: 324px;
+}
+
+input[type=password]
+{
+    width: 150px;
+    margin: 8px;
+}
+
+input[type=tel]
+{
+    margin: 8px;
+    width: 324px;
+}
+
+input[type=submit]
+{
+    margin: 20px;
+    
+}
+.col-1 {
+    width: 8.33%;
+}
+
+.col-2 {
+    width: 16.66%;
+}
+
+.col-3 {
+    width: 25%;
+}
+
+.col-4 {
+    width: 33.33%;
+}
+
+.col-5 {
+    width: 41.66%;
+}
+
+.col-6 {
+    width: 50%;
+}
+
+.col-7 {
+    width: 58.33%;
+}
+
+.col-8 {
+    width: 66.66%;
+}
+
+.col-9 {
+    width: 75%;
+}
+
+.col-10 {
+    width: 83.33%;
+}
+
+.col-11 {
+    width: 91.66%;
+}
+
+.col-12 {
+    width: 100%;
+}
+@media screen and (max-width: 768px) {
+    [class*="col-"] {
+        width: 100%;
+    }
+    
+
+
+    
+}

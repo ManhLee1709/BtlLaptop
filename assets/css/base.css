@@ -1,0 +1,26 @@
+:root
+{
+    --white--color: #fff;
+    --black--color: #000;
+    --text--color: #333;
+    --SoSliecoban: 6;
+}
+
+
+*
+{
+    box-sizing: inherit;
+   
+    /* opacity: 0.8; */
+}
+
+html
+{
+    background-color: rgba(204, 204, 204,0.5);
+    /* opacity: 0.7; */
+    margin: 0px -8px;
+    font-size: 62.5%;
+    line-height: 1.6rem;
+    font-family: 'Roboto', sans-serif;
+    box-sizing: border-box;
+}
